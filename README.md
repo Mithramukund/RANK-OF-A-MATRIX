@@ -20,8 +20,10 @@ A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank = np.linalg.matrix_rank(A)
 print(rank)
 ```
+
 ## Output:
-![output](m2.png)
+![m2](https://user-images.githubusercontent.com/121608770/213077498-9d6eb81e-7122-440b-9a6b-9a986d56b491.png)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
